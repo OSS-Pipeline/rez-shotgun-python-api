@@ -1,3 +1,4 @@
-# rez-shotgun-python-api
+rez-shotgun-python-api
+===
 
-Rez build configuration for Autodesk Shotgun Python API.
+Rez build configuration for the Autodesk Shotgun Python API.
